@@ -1,4 +1,10 @@
-### Hi there 👋
+### s'geht ab?
+
+"👋 Neuling im Code-Universum.
+Auf dem Weg durch die Grundlagen der Programmierung.
+Lerne und wachse mit jeder Zeile Code.
+Offen für Tipps und Ratschläge!
+
 
 <!--
 **KennethLiese88/KennethLiese88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
