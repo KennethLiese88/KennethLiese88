@@ -2,7 +2,7 @@
   
  ### s'geht ab?
 
- <img width="300px" src="https://wallpapers-clan.com/wp-content/uploads/2023/08/cute-drawn-great-white-shark-sticker-preview.jpg"/>
+ <img width="300px" src="/cute-drawn-great-white-shark-sticker.png"/>
   
  ___
 
