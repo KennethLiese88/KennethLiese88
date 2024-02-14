@@ -1,22 +1,18 @@
-### s'geht ab?
+<div id="header" align="center">
+  
+ ### s'geht ab?
 
-"👋 Neuling im Code-Universum.
-Auf dem Weg durch die Grundlagen der Programmierung.
-Lerne und wachse mit jeder Zeile Code.
-Offen für Tipps und Ratschläge!
+ <img width="300px" src="https://wallpapers-clan.com/wp-content/uploads/2023/08/cute-drawn-great-white-shark-sticker-preview.jpg"/>
+  
+ ___
+
+👋 Neuling im Code-Universum. <br/>
+Auf dem Weg durch die Grundlagen der Programmierung. <br/>
+Lerne und wachse mit jeder Zeile Code. <br/>
+Offen für Tipps und Ratschläge! <br/>
+
+</div>
 
 
-<!--
-**KennethLiese88/KennethLiese88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
