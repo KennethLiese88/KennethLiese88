@@ -6,10 +6,10 @@
   
  ___
 
-👋 Newbie im Code-Ocean. <br/>
-Auf dem Weg durch die Grundlagen der Programmierung. <br/>
-Lerne und wachse mit jeder Zeile Code. <br/>
-Offen für Tipps und Ratschläge! <br/>
+👋 Newbie in the code ocean. <br/>
+On the journey through the basics of programming. <br/>
+Learning and growing with every line of code. <br/>
+Open to tips and advice! <br/>
 
 </div>
 
